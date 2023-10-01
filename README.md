@@ -2,6 +2,8 @@
 
 [Notion](https://roll1226.notion.site/Next-js-Corbado-ba6b49fbe2ca45a5bd8789888018553a?pvs=4)に実装方法やCorbadoの登録方法が書かれています。
 
+https://qiita.com/roll1226/items/fa5b06495a0c0770949f
+Qiitaでも投稿をしています。
 
 ---
 
