@@ -1,6 +1,6 @@
-# Next.jsとCorbadoを使用したパスキーの実装テスト
+# Next.js と Corbado を使用したパスキーの実装テスト
 
-[Notion](https://roll1226.notion.site/Next-js-Corbado-ba6b49fbe2ca45a5bd8789888018553a?pvs=4)に実装方法やCorbadoの登録方法が書かれています。
+[Notion](https://roll1226.notion.site/Next-js-Corbado-ba6b49fbe2ca45a5bd8789888018553a?pvs=4)に実装方法や Corbado の登録方法が書かれています。
 
 [Qiita](https://qiita.com/roll1226/items/fa5b06495a0c0770949f)にも投稿をしています。
 
@@ -11,7 +11,7 @@
 Copy env_sample to .env.
 
 ```
-co env_sample .env.
+co env_sample .env
 ```
 
 Input Corbado product ID and secret key to .env.
