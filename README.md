@@ -28,6 +28,12 @@ pnpm dev
 bun dev
 ```
 
+---
+
+## 参考
+
+https://www.corbado.com/blog/nextjs-passkeys
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
